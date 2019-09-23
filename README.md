@@ -5,7 +5,7 @@ This test should be applied to single paragraphs.
 
 1.      Count words in paragraph
 
-2.      Count setences
+2.      Count sentences
 
 3.      Get mean words per sentence
 
